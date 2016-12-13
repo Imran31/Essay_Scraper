@@ -26,6 +26,10 @@ installers. For example, using pip:
 
 Copy crawley.py into essay_scraper directory and run the script. The script will take some time to finish execution, the directoty will be populated with a new pdf file for each essay.
 
+```
+   python crawley.py
+```
+
 ## Contribute
 
 The essays don't look so great but it is readable and I welcome everyone to contribute!
